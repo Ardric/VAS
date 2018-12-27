@@ -1,0 +1,5 @@
+{% extends 'layout.txt' %}
+
+{% block body %}
+    <h1>Your submission has been received.</h1>
+{% endblock %}
