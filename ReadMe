@@ -1,0 +1,10 @@
+This is a rough draft of the VAS flask code that will run an Admin login page for database viewing and
+allow presenters to submit their information and presentations.
+
+Currently, the code is in place to allow an Admin to login but no viewing page has been created.
+I've have also tried to put in place a hasing algorithm to securely store passwords but has not been tested.
+
+Presenters can access and submit information / presentations via the '/Submit' route.
+
+The schema.sql file is to serve as a quick way to recreate the database but the flask code to run it has
+not been implemented yet.
